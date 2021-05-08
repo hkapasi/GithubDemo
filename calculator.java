@@ -1,3 +1,5 @@
+//This is a trial to check git
+
 import java.util.Scanner;
 
  public class calculator
